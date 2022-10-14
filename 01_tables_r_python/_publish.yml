@@ -1,0 +1,4 @@
+- source: tables_r_python.rmd
+  quarto-pub:
+    - id: 0c2e1a3a-c60a-4b6b-a0f7-424d113e5dfc
+      url: 'https://quartopub.com/sites/karbartolome/the-grammar-of-tables'
